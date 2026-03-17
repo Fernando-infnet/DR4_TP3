@@ -1,0 +1,8 @@
+com/example/Order.class
+com/example/OrderItem.class
+com/example/OrderMessageBuilder.class
+com/example/InvoicePrinter.class
+com/example/DiscountPolicy.class
+com/example/Main.class
+com/example/Client.class
+com/example/EmailService.class
